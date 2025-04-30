@@ -7,11 +7,11 @@ ClarifAI is a web application designed to enhance learning through audio content
 - **Audio Recording**: Easily capture high-quality audio from various sources (voice, lectures, meetings).
 - **Real-Time Explanations**: When a user plays back audio and encounters confusion, the app provides instant, context-aware explanations.
 - **Concept Storage**: All explained concepts are saved in a searchable database for quick retrieval and review.
+
 - **Teach-to-Learn Mode**: A conversational mode where the language model quizzes the user on recorded concepts, fostering active learning.
 - **Interactive Q&A**: Engage in back-and-forth dialogue with the language model to deepen understanding of topics.
 
-<img width="1132" alt="Screenshot 2025-04-26 at 9 40 08 PM" src="https://github.com/user-attachments/assets/5938bb60-bf02-4be8-89d6-e384c4724fde" />
-
+<img width="1437" alt="Screenshot 2025-04-29 at 10 50 41 PM" src="https://github.com/user-attachments/assets/5289214d-ab27-45ef-a8cf-19ff6fe49835" />
 
 ## Future Improvements
 - **Implement Multimodal Features**: introduce a variety of new output and modes of learning 
