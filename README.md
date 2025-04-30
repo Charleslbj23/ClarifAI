@@ -12,6 +12,8 @@ ClarifAI is a web application designed to enhance learning through audio content
 - **Interactive Q&A**: Engage in back-and-forth dialogue with the language model to deepen understanding of topics.
 
 <img width="1437" alt="Screenshot 2025-04-29 at 10 50 41 PM" src="https://github.com/user-attachments/assets/5289214d-ab27-45ef-a8cf-19ff6fe49835" />
+<img width="1434" alt="Screenshot 2025-04-29 at 10 54 04 PM" src="https://github.com/user-attachments/assets/70c7cec4-2b16-4b83-9985-8c3c6cfc97fd" />
+<img width="1438" alt="Screenshot 2025-04-29 at 10 53 36 PM" src="https://github.com/user-attachments/assets/eae96dbc-f65f-4aa5-992b-47ce9383fff7" />
 
 
 ## Future Improvements
